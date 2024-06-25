@@ -7,6 +7,7 @@ sap.ui.define(
   
       return BaseController.extend("sap.btp.uidemo.controller.App", {
         onInit: function() {
+          
         }
       });
       
